@@ -1,0 +1,56 @@
+{
+    "user" : {
+        "fullName": "Nosimilo Celiwe Mtshali",
+        "photo" : "./nosimilo.JPG"
+    },
+    "city" : {
+        "name" : "Which City",
+        "photo" : "./paris.jpg",
+        "description" : " Paris is a diverse and sophisticated city that appeals to the wealthy but can also beenjoyed on a budget. In addition to the Eiffel Tower, Paris has countless other gorgeous landmarks and monuments that add to the beauty of the spacious boulevards and their charming cafés.French cuisine is also world-famous, and you can find some of the best of it in Paris. There is world-class shopping and a dynamic fashion scene, and plenty of interesting museums and art galleries.Just outside Paris, there are plenty of fun day trips to take for further insight into the culture and history of France."
+    },
+    "foreignLanguage" : {
+        "name" : "Foreign Language ", 
+        "english" : "English",
+        "spanish" : "Spanish",
+        "language" : "I would like to learn spanish, because it is one of the most spoken language in the world, and it is probablythe 3rd world most spoken language. It is also easy to learn it for english speakers."
+      }, 
+
+    "phrases" : {
+        "englishPhrase1" : "Hello, How are you",
+        "foreignLanguage1" : "hola, cómo estás",
+        
+    
+        "englishPhrase2" : "Where are you from",
+        "foreignLanguage2" : "de dónde eres",
+
+        "englishPhrase3" : "How old are you",
+        "foreignLanguage3" : " cuántos años tiene"
+        
+    },
+
+    "favouriteSubjects" : {
+
+        
+        "favourite" : "Favourite Subjects",
+        "paragraph" : "I have a Bachelor of science degree in Environmental Scienes from the the University of KwaZulu-Natal and here are my three favourates subjects at 4IR Accenture as follows:",
+        "name" : "Agile Rapid Skills Acquisition",
+        "description" : "Rapid Skill Acquisition is an increasingly popular used to describe the ability to learn or acquire a skill quickly in both the physical and digital realms. Agile learning breaks down the learning process into manageable blocks, providing valuable feedback after each module and fostering flexibility, efficiency, and improved communication.",
+        "image" : "./coding1.jpg"
+    },
+
+    "favouriteSubject" : {
+
+        "name" : "Engeering Business Systems For 4IR",
+        "description" : "The Fourth Industrial Revolution (4IR) delivers various tools in the form of automation and systems, proving to be both another challenge and an opportunity for contemporary business. Implementation of 4IR proves to be a multi-dimensional challenge, including skills limitations, resources constraints, time challenges, design knowledge, business readiness, implementation constraints.",
+        "image" : "./robotics.jpg"
+        },
+
+    "favouriteSubjects3" : {
+
+        
+        "name" : "Full stack web development for 4IR",
+         "description" : "Learn practical, job-ready web developer skills to start your professional developer career. Learn HTML, CSS, JavaScript, React, jQuery, VueJs and NodeJs. In the trend of IT advancement, full stack development is one of the optimal solutions that many businesses choose to improve their projects and acquire benefits of web applications development.",
+         "image" : "./coding_boy.svg"
+    
+        }
+}
